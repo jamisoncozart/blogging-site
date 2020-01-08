@@ -1,0 +1,21 @@
+body {
+  background-color: #5fffac;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  margin: 20px;
+}
+
+.intro {
+  text-align: center;
+}
+
+.post {
+  background-color: #5fb2ff;
+  padding: 20px;
+  margin: 20px 50px;
+}
+
+.about {
+  background-color: #845fff;
+  padding: 20px;
+  margin: 20px 50px;
+}
